@@ -28,7 +28,7 @@ Activation is defined using the *top 20% of HLA-DR protein expression*.
 
 ---
 
-## 🔬 What Was Done
+## 🔬 Methods
 
 - Loaded and aligned:
   - RNA count matrix  
