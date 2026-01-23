@@ -89,7 +89,7 @@ Used TotalVI (scvi-tools) to:
 ### 1. Multimodal Integration with TotalVI  
 Latent space learned jointly from RNA and protein expression, showing separation of immune activation states.
 
-![TotalVI embedding](figures/X_totalvi_totalvi_embedding.png)
+<img src="figures/X_totalVI_totalvi_embedding.png" width="500">
 
 ---
 
@@ -97,7 +97,7 @@ Latent space learned jointly from RNA and protein expression, showing separation
 Genes responding specifically in activated CD8 T cells (HLA-DR⁺ CD8⁺) compared to resting CD8 T cells (HLA-DR⁻ CD8⁺).  
 Red points highlight candidate biomarkers.
 
-![Activation-specific biomarkers](figures/activation_specific_biomarkers.png)
+<img src="figures/activation_specific_biomarkers.png" width="500">
 
 ---
 
