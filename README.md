@@ -1,4 +1,4 @@
-# ** Multimodal CITE-seq Analysis of Immune Activation in Melanoma**
+# **Multimodal CITE-seq Analysis of Immune Activation in Melanoma**
 
 This repository contains a multimodal single-cell analysis pipeline using CITE-seq data from melanoma patients treated with immune checkpoint inhibitors.
 
@@ -89,7 +89,7 @@ Used TotalVI (scvi-tools) to:
 ### 1. Multimodal Integration with TotalVI  
 Latent space learned jointly from RNA and protein expression, showing separation of immune activation states.
 
-![TotalVI embedding](figures/X_totalvi_embedding.png)
+![TotalVI embedding](figures/X_totalvi_totalvi_embedding.png)
 
 ---
 
