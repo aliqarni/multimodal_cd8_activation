@@ -89,7 +89,7 @@ Used TotalVI (scvi-tools) to:
 ### 1. Multimodal Integration with TotalVI  
 Latent space learned jointly from RNA and protein expression, showing separation of immune activation states.
 
-![TotalVI embedding](figures/totalvi_embedding.png)
+![TotalVI embedding](figures/X_totalvi_embedding.png)
 
 ---
 
