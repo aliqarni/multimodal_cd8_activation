@@ -1,4 +1,4 @@
-#** Multimodal CITE-seq Analysis of Immune Activation in Melanoma**
+# ** Multimodal CITE-seq Analysis of Immune Activation in Melanoma**
 
 This repository contains a multimodal single-cell analysis pipeline using CITE-seq data from melanoma patients treated with immune checkpoint inhibitors.
 
